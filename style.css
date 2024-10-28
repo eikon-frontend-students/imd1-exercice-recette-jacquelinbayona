@@ -1,0 +1,29 @@
+div {
+  border-radius: 20px;
+  border: 1px solid #c8351e;
+  background: #ffecd3;
+}
+body {
+  width: 485px;
+  height: 578px;
+}
+h1 {
+  color: #000;
+  text-align: center;
+  font-family: "League Spartan";
+  font-size: 58px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+img {
+  width: 280px;
+  height: 280px;
+  padding: auto;
+}
+ol {
+  display: flex;
+  height: 141px;
+  flex-direction: column;
+  justify-content: center;
+}
